@@ -45,7 +45,7 @@
 		<div class="flex justify-center items-start">
 			<AnimatedElement delay={200}>
 				<div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-lg p-8 w-full max-w-md">
-				<div class="space-y-6">
+					<div class="space-y-6">
 					<div class="flex items-center gap-4">
 						<div class="w-12 h-12 bg-nutri-green-light rounded-full flex items-center justify-center flex-shrink-0">
 							<span class="text-nutri-green font-bold">1</span>
@@ -88,6 +88,7 @@
 						</div>
 					</div>
 				</div>
+			</div>
 			</AnimatedElement>
 		</div>
 	</div>

@@ -25,14 +25,14 @@
 				<h4 class="font-semibold mb-4">Soporte</h4>
 				<ul class="space-y-2 text-sm">
 					<li><a href="mailto:soporte@nutri-track.pro" class="text-gray-400 hover:text-white transition-colors">Contacto</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Términos y condiciones</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Política de privacidad</a></li>
+					<li><a href="/terminos" class="text-gray-400 hover:text-white transition-colors">Términos y condiciones</a></li>
+					<li><a href="/privacidad" class="text-gray-400 hover:text-white transition-colors">Política de privacidad</a></li>
 				</ul>
 			</div>
 		</div>
 		
 		<div class="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-			<p>© {currentYear} Nutri-Track. Todos los derechos reservados.</p>
+			<p>&copy; {currentYear} Nutri-Track. Todos los derechos reservados.</p>
 		</div>
 	</div>
 </footer>
