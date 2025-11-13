@@ -16,7 +16,7 @@
 				<div class="bg-gray-50 dark:bg-gray-800 rounded-2xl p-6 text-left border border-gray-200 dark:border-gray-700">
 					<div class="flex gap-4">
 						<div class="flex-shrink-0">
-							<svg class="w-8 h-8 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+							<svg class="w-8 h-8 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20">
 								<path fill-rule="evenodd" d="M18 10c0 3.866-3.582 7-8 7a8.841 8.841 0 01-4.083-.98L2 17l1.338-3.123C2.493 12.767 2 11.434 2 10c0-3.866 3.582-7 8-7s8 3.134 8 7zM7 9H5v2h2V9zm8 0h-2v2h2V9zM9 9h2v2H9V9z" clip-rule="evenodd"/>
 							</svg>
 						</div>
@@ -31,7 +31,7 @@
 				<div class="bg-gray-50 dark:bg-gray-800 rounded-2xl p-6 text-left border border-gray-200 dark:border-gray-700">
 					<div class="flex gap-4">
 						<div class="flex-shrink-0">
-							<svg class="w-8 h-8 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+							<svg class="w-8 h-8 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20">
 								<path fill-rule="evenodd" d="M18 10c0 3.866-3.582 7-8 7a8.841 8.841 0 01-4.083-.98L2 17l1.338-3.123C2.493 12.767 2 11.434 2 10c0-3.866 3.582-7 8-7s8 3.134 8 7zM7 9H5v2h2V9zm8 0h-2v2h2V9zM9 9h2v2H9V9z" clip-rule="evenodd"/>
 							</svg>
 						</div>
@@ -46,7 +46,7 @@
 				<div class="bg-gray-50 dark:bg-gray-800 rounded-2xl p-6 text-left border border-gray-200 dark:border-gray-700">
 					<div class="flex gap-4">
 						<div class="flex-shrink-0">
-							<svg class="w-8 h-8 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+							<svg class="w-8 h-8 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20">
 								<path fill-rule="evenodd" d="M18 10c0 3.866-3.582 7-8 7a8.841 8.841 0 01-4.083-.98L2 17l1.338-3.123C2.493 12.767 2 11.434 2 10c0-3.866 3.582-7 8-7s8 3.134 8 7zM7 9H5v2h2V9zm8 0h-2v2h2V9zM9 9h2v2H9V9z" clip-rule="evenodd"/>
 							</svg>
 						</div>

@@ -60,14 +60,14 @@
 					
 					<div class="grid grid-cols-2 gap-4">
 						<div class="space-y-2">
-							<div class="bg-red-50 text-red-600 text-xs p-2 rounded">Apps dispersas</div>
-							<div class="bg-red-50 text-red-600 text-xs p-2 rounded">Sin claridad</div>
-							<div class="bg-red-50 text-red-600 text-xs p-2 rounded">Cansancio</div>
+							<div class="bg-red-50 text-red-700 dark:text-red-600 text-xs p-2 rounded">Apps dispersas</div>
+							<div class="bg-red-50 text-red-700 dark:text-red-600 text-xs p-2 rounded">Sin claridad</div>
+							<div class="bg-red-50 text-red-700 dark:text-red-600 text-xs p-2 rounded">Cansancio</div>
 						</div>
 						<div class="space-y-2">
-							<div class="bg-green-50 text-nutri-green text-xs p-2 rounded">Todo en un lugar</div>
-							<div class="bg-green-50 text-nutri-green text-xs p-2 rounded">100% claridad</div>
-							<div class="bg-green-50 text-nutri-green text-xs p-2 rounded">Energía estable</div>
+							<div class="bg-green-50 text-nutri-green-darker dark:bg-green-900 dark:text-nutri-green text-xs p-2 rounded">Todo en un lugar</div>
+							<div class="bg-green-50 text-nutri-green-darker dark:bg-green-900 dark:text-nutri-green text-xs p-2 rounded">100% claridad</div>
+							<div class="bg-green-50 text-nutri-green-darker dark:bg-green-900 dark:text-nutri-green text-xs p-2 rounded">Energía estable</div>
 						</div>
 					</div>
 				</div>

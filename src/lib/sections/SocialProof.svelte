@@ -11,7 +11,7 @@
 			
 			<div class="flex flex-wrap justify-center items-center gap-8 md:gap-12">
 				{#each ['Team Endurance', 'Clínica Vital', 'Entrená Mejor', 'Sport Wellness', 'FitLife'] as brand}
-					<div class="text-gray-400 font-semibold text-sm md:text-base">
+					<div class="text-gray-600 dark:text-gray-400 font-semibold text-sm md:text-base">
 						{brand}
 					</div>
 				{/each}
