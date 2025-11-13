@@ -323,72 +323,10 @@ Todos los botones apuntan a `https://www.nutri-track.pro`. Busca y reemplaza est
 - `Pricing.svelte`
 - `FinalCTA.svelte`
 
-## 🚀 Deploy
-
-### Vercel (Recomendado)
-
-```bash
-npm i -g vercel
-vercel
-```
-
-### Netlify
-
-```bash
-npm run build
-# Sube la carpeta /build
-```
-
-### Configuración del Adapter
-
-El proyecto usa `@sveltejs/adapter-auto` que detecta automáticamente la plataforma. Para configurar un adapter específico:
-
-```javascript
-// svelte.config.js
-import adapter from '@sveltejs/adapter-static'; // o adapter-node, etc.
-
-export default {
-  kit: {
-    adapter: adapter()
-  }
-};
-```
-
-## 📊 Scripts Disponibles
-
-```bash
-npm run dev          # Servidor de desarrollo
-npm run build        # Build de producción
-npm run preview      # Preview del build
-npm run check        # Verificar TypeScript
-npm run check:watch  # Verificar en modo watch
-```
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add: amazing feature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto es propiedad de Nutri-Track. Todos los derechos reservados © 2025.
 
 ## 👤 Autor
 
 **Juan Altamira**
 - GitHub: [@juan-altamira](https://github.com/juan-altamira)
 
-## 🙏 Agradecimientos
 
-- SvelteKit team por el increíble framework
-- Tailwind Labs por TailwindCSS
-- Comunidad de Svelte
-
----
-
-⭐ Si te gusta este proyecto, dale una estrella en GitHub!
