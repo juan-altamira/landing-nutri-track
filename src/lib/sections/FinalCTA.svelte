@@ -42,7 +42,7 @@
 			</AnimatedElement>
 			
 			<AnimatedElement delay={300}>
-				<Button href="https://www.nutri-track.pro" variant="white" size="lg">
+				<Button href="https://www.nutri-track.pro/signup" variant="white" size="lg">
 					Empezar mi prueba gratuita de 14 días
 				</Button>
 				<p class="text-white/80 text-sm mt-4">
