@@ -54,7 +54,7 @@
 				
 				<AnimatedElement delay={400}>
 					<div class="pt-4">
-						<Button href="https://www.nutri-track.pro">
+						<Button href="https://www.nutri-track.pro/signup">
 							Empezar mi prueba gratuita de 14 días
 						</Button>
 						<p class="text-sm text-gray-500 dark:text-gray-400 mt-3">Cancelás cuando quieras. Sin compromiso.</p>
