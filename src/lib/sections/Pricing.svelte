@@ -47,7 +47,7 @@
 					{/each}
 				</ul>
 				
-				<Button href="https://www.nutri-track.pro" class="w-full justify-center">
+				<Button href="https://www.nutri-track.pro/signup" class="w-full justify-center">
 					Empezar mi prueba gratuita de 14 días
 				</Button>
 				
